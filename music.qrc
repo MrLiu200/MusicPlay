@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>langdeyouhuo.mp3</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>Image/titile.ico</file>
+        <file>Image/mute.ico</file>
+        <file>Image/Next.ico</file>
+        <file>Image/pause.ico</file>
+        <file>Image/play.ico</file>
+        <file>Image/pravious.ico</file>
+        <file>Image/volume.ico</file>
+        <file>Image/like.ico</file>
+        <file>Image/list.ico</file>
+        <file>Image/loop.ico</file>
+        <file>Image/loop_one.ico</file>
+        <file>Image/order_playback.ico</file>
+        <file>Image/random.ico</file>
+        <file>Image/unlike.ico</file>
+        <file>Image/search.ico</file>
+        <file>Image/search_hover.ico</file>
+        <file>Image/skin.ico</file>
+        <file>Image/set.ico</file>
+        <file>Image/close.ico</file>
+        <file>Image/full.ico</file>
+        <file>Image/hide.ico</file>
+        <file>Image/minisize.ico</file>
+        <file>Image/collect.png</file>
+        <file>Image/collect_disable.ico</file>
+        <file>Image/collect_enable.ico</file>
+        <file>Image/music_host.ico</file>
+        <file>Image/like_host.ico</file>
+        <file>Image/Refresh.ico</file>
+    </qresource>
+</RCC>
